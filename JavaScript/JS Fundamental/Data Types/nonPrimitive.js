@@ -17,4 +17,4 @@ console.log(student.age);
 
 
 student["age"] = student["age"] + 1;
-console.log(student["age"]);     // 21
+console.log(student["age"]);     // 21 
